@@ -1,4 +1,4 @@
-### Hi there, I'm Jakub and I love to learn new things! 👋
+### Hi there, I'm Jakub and I love learn new things! 👋
 
 <!--**JakubJurkian/JakubJurkian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
