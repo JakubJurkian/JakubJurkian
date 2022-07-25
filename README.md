@@ -1,4 +1,4 @@
-### Hi there, I'm Jakub and I love learning new things! 👋
+### Hi, I'm Jakub and I love learning new things 👋
 ### Especially I'm into HTML/CSS, JavaScript, React and NodeJS 🦾
 
 <!--**JakubJurkian/JakubJurkian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
