@@ -1,5 +1,5 @@
 ### Hi, I'm Jakub and I love learning new things 👋
-### Especially I'm into Web Development 🦾
+### Especially I'm into Web Development.
 
 <!--**JakubJurkian/JakubJurkian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
