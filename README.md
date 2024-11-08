@@ -3,7 +3,7 @@
 
 ### I have experience with these tools/technologies:
 ### Front-end: 
-![My Skills](https://skillicons.dev/icons?i=html) ![My Skills](https://skillicons.dev/icons?i=css) ![My Skills](https://skillicons.dev/icons?i=js) ![My Skills](https://skillicons.dev/icons?i=bootstrap) ![My Skills](https://skillicons.dev/icons?i=jquery) ![My Skills](https://skillicons.dev/icons?i=react) ![My Skills](https://skillicons.dev/icons?i=redux) ![My Skills](https://skillicons.dev/icons?i=react) ![My Skills](https://skillicons.dev/icons?i=sass) ![My Skills](https://skillicons.dev/icons?i=react) ![My Skills](https://skillicons.dev/icons?i=tailwind) ![My Skills](https://skillicons.dev/icons?i=react) ![My Skills](https://skillicons.dev/icons?i=ts)
+![My Skills](https://skillicons.dev/icons?i=html) ![My Skills](https://skillicons.dev/icons?i=css) ![My Skills](https://skillicons.dev/icons?i=sass) ![My Skills](https://skillicons.dev/icons?i=bootstrap) ![My Skills](https://skillicons.dev/icons?i=tailwind) ![My Skills](https://skillicons.dev/icons?i=js) ![My Skills](https://skillicons.dev/icons?i=ts) ![My Skills](https://skillicons.dev/icons?i=jquery) ![My Skills](https://skillicons.dev/icons?i=react) ![My Skills](https://skillicons.dev/icons?i=redux)
 ### Back-end:
 ![My Skills](https://skillicons.dev/icons?i=nodejs) ![My Skills](https://skillicons.dev/icons?i=mongodb) ![My Skills](https://skillicons.dev/icons?i=mysql)
 
