@@ -1,5 +1,5 @@
-### Hi, I'm Jakub and I love learning new things 👋
-### Especially I'm into Web Development.
+### Hi, I'm Jakub. I'm an IT student at the University of Gdańsk.
+### I love learning new things, especially I'm into Web Development.
 
 ### I have experience with these tools/technologies:
 ### Front-end: 
