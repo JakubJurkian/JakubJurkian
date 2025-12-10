@@ -5,7 +5,6 @@
 ### IT Student @ University of Gdansk | Web Developer
 **React | TypeScript | C# / .NET**
 
-<br/>
 I am passionate about building scalable web applications and constantly expanding my skill set in modern technologies.
 <br/>
 
@@ -15,8 +14,6 @@ I am passionate about building scalable web applications and constantly expandin
 **[temporal-resource-allocation-system](https://github.com/JakubJurkian/temporal-resource-allocation-system)** *A temporal resource allocation system with collision detection logic (React + TypeScript).*
 
 ---
-
-<br/>
 
 ### 🛠️ My Tech Stack
 
