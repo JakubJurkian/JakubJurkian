@@ -11,7 +11,7 @@ I am passionate about building scalable web applications and constantly expandin
 ---
 
 ### Currently working on
-**[temporal-resource-allocation-system](https://github.com/JakubJurkian/temporal-resource-allocation-system)** *A temporal resource allocation system with collision detection logic (React + TypeScript).*
+**[temporal-resource-allocation-system](https://github.com/JakubJurkian/temporal-resource-allocation-system)** - *A temporal resource allocation system with collision detection logic (React + TypeScript).*
 
 ---
 
