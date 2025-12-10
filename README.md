@@ -1,23 +1,38 @@
-### Hi, I'm Jakub. I'm an IT student at the University of Gdańsk.
-### I love learning new things, especially I'm into Web Development.
+<div align="center">
 
-### I have experience with these tools/technologies:
-### Front-end: 
-![My Skills](https://skillicons.dev/icons?i=html) ![My Skills](https://skillicons.dev/icons?i=css) ![My Skills](https://skillicons.dev/icons?i=sass) ![My Skills](https://skillicons.dev/icons?i=bootstrap) ![My Skills](https://skillicons.dev/icons?i=tailwind) ![My Skills](https://skillicons.dev/icons?i=js) ![My Skills](https://skillicons.dev/icons?i=ts) ![My Skills](https://skillicons.dev/icons?i=jquery) ![My Skills](https://skillicons.dev/icons?i=react) ![My Skills](https://skillicons.dev/icons?i=redux)
-### Back-end:
-![My Skills](https://skillicons.dev/icons?i=nodejs) ![My Skills](https://skillicons.dev/icons?i=mongodb) ![My Skills](https://skillicons.dev/icons?i=mysql)
+# Hi there, I'm Jakub! 👋
 
-### Others:
-![My Skills](https://skillicons.dev/icons?i=py) ![My Skills](https://skillicons.dev/icons?i=linux) ![My Skills](https://skillicons.dev/icons?i=git) ![My Skills](https://skillicons.dev/icons?i=github) ![My Skills](https://skillicons.dev/icons?i=gitlab) ![My Skills](https://skillicons.dev/icons?i=npm) ![My Skills](https://skillicons.dev/icons?i=firebase) ![My Skills](https://skillicons.dev/icons?i=vite)  
+### IT Student @ University of Gdansk | Web Developer
+**React | TypeScript | C# / .NET**
 
-<!--**JakubJurkian/JakubJurkian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+I am passionate about building scalable web applications and constantly expanding my skill set in modern technologies.
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Currently working on
+**[temporal-resource-allocation-system](https://github.com/JakubJurkian/temporal-resource-allocation-system)** *A temporal resource allocation system with collision detection logic (React + TypeScript).*
+
+---
+
+<br/>
+
+### 🛠️ My Tech Stack
+
+**Front-end** <br/>
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,html,sass,bootstrap,tailwind" alt="Frontend Skills" />
+
+<br/>
+
+**Back-end** <br/>
+<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,mongodb,mysql" alt="Backend Skills" />
+
+<br/>
+
+**Tools & Others** <br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,py,firebase,jest" alt="Tools" />
+<br/>
+<br/>
+[Visit my Portfolio](https://JakubJurkian.github.io)
+</div>
