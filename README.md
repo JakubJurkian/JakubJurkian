@@ -1,8 +1,7 @@
 <div align="center">
 
-# Hi there, I'm Jakub
+# IT Student @ University of Gdansk | IT Enthusiast
 
-### IT Student @ University of Gdansk | Web Developer
 **React | TypeScript | C# / .NET**
 
 I am passionate about building scalable web applications and constantly expanding my skill set in modern technologies.
