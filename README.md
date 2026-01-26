@@ -2,9 +2,7 @@
 
 # IT Student @ University of Gdansk | IT Enthusiast
 
-**React | TypeScript | C# / .NET**
-
-I am passionate about building scalable web applications and constantly expanding my skill set in modern technologies.
+I am a CS student with a strong technical background (IT Technician Diploma). I specialize in building end-to-end applications, bridging the gap between infrastructure (Linux, Networks) and modern software architecture. My goal is to deliver clean, efficient code—whether it's a .NET microservice, a Node.js backend, or a reactive frontend interface.
 <br/>
 
 ---
