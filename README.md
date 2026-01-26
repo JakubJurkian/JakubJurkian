@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Jakub!
+# Hi there, I'm Jakub
 
 ### IT Student @ University of Gdansk | Web Developer
 **React | TypeScript | C# / .NET**
