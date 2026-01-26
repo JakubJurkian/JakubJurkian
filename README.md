@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Jakub! 👋
+# Hi there, I'm Jakub!
 
 ### IT Student @ University of Gdansk | Web Developer
 **React | TypeScript | C# / .NET**
@@ -15,7 +15,7 @@ I am passionate about building scalable web applications and constantly expandin
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 **Front-end** <br/>
 <img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,html,sass,bootstrap,tailwind" alt="Frontend Skills" />
