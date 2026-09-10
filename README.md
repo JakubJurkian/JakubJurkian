@@ -12,7 +12,7 @@ I build backend systems primarily in Java because I genuinely enjoy the server-s
 
 ## Also Exploring
 * **Ecosystems:** `Node.js / Express`
-* **Infrastructure:** `Apache Kafka`
+* **Infrastructure:** `Apache Kafka`, AWS
 
 ---
 
